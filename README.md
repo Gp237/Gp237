@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Gp237
-- 👀 I’m interested in programmation, cyber sécurité 
-- 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on hackibg en développement 
-
+📌 Patrick Guembou – Ingénieur Informaticien | Consultant IT & Développeur Full-Stack
+💡 Passionné par l’innovation technologique, la transformation digitale et le développement de solutions adaptées au marché africain.
+🚀 Spécialisé en Flutter, Node.js, Python, Cloud Computing (AWS, Firebase), et Architecture Logicielle
+📫 Contact : globalassistcameroun@gmail.com | www.linkedin.com/in/guembou-patrick-42abb62aa
 
 <!---
 Gp237/Gp237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
