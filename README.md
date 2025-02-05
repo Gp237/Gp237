@@ -20,7 +20,7 @@
 - 🚚 **AdridevFlow** - Solution de FAQ  africains  
 
 📫 *Contactez-moi* :  
-💼 [LinkedIn](https://www.linkedin.com/in/patrick-guembou) | ✉️ [Email professionnel]  
+💼 [LinkedIn](https://www.linkedin.com/in/patrick-guembou) | ✉️ [globalassistcameroun@gmail.com ]  
 
 <!---
 Gp237/Gp237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
